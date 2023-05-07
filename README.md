@@ -1,6 +1,5 @@
 ### Hello 👋, my name is Ryan Flowers
 #### and I am a full stack developer in Michigan
-![and I am a full stack developer in Michigan](https://www.ryanflowers.dev)
 
 I have been working as a professional developer for 4+ years
 
